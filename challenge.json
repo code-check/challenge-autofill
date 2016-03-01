@@ -1,0 +1,20 @@
+﻿{
+  "editable": [
+    "wwwroot/custom.css",
+    "wwwroot/index.js",
+    "wwwroot/index.html"
+  ],
+  "excludes": [
+    "challenge.json",
+    ".gitignore",
+    ".gitattributes"
+  ],
+  "readme": {
+    "en": "README.md"
+  },
+  "test": "mocha specs",
+  "tags": [
+    "JavaScript",
+    "Component"
+  ]
+}
